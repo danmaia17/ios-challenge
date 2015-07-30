@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (1.3.0)
+  - FlickrKit (1.0.5)
+  - SwiftSpinner (0.7.0)
+  - SwiftyJSON (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.3)
+  - FlickrKit
+  - SwiftSpinner
+  - SwiftyJSON (~> 2.2.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 220403a8d5840e0b4c946a6fbaf209dbca124282
+  FlickrKit: fc0ed009c5cb69db4d82e68f7acb02002ebe1a42
+  SwiftSpinner: 034bb8b00675b3e4f4c97531fa9af3f550462192
+  SwiftyJSON: 0b3e6c07af17ff745e77e8e9984097b55c956e5c
+
+COCOAPODS: 0.38.1
